@@ -22,7 +22,6 @@ class Employee : public Person
         cout << "Age: " << age << endl;
     }
 
-
 };
 
 int main()
